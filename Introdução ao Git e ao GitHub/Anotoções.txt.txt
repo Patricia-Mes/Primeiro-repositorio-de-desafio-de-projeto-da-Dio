@@ -1,0 +1,17 @@
+O que é o Git?
+ É um sistema de controle de versão ultilizado atualmente pela grande maioria dos desenvolvedores. Com ele podemos criar todo histórico de alteração no código do nosso projeto e falcimente voltar para qualquer ponto para saber como código estava naquela data. 
+
+* Desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+
+* Link comandos básicos do Git:https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=EAIaIQobChMI3ZK22-ng-AIVKuxcCh2nZAJ3EAAYAiAAEgIDrPD_BwE
+
+O que é Git/Hub?
+ É um sistema baseado em nuvem que hospeda um sistema de controle de versão chamado Git. Ele permite que os desenvolvedores  colaborem e façam mudanças em projetos compartilhados enquanto mantém um registro detalhado de seu progresso.
+
+* Desenvolvido em 2008 pelos Fundadores: Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett
+
+* Link como usar o GitHub:https://tecnoblog.net/responde/como-usar-o-github-guia-para-iniciantes/
+
+Fontes de pesquisa:
+https://www.hostgator.com.br/blog/git-o-sistema-de-controle/?gclid=EAIaIQobChMIrJbq2-_g-AIVoEFIAB3xNAo1EAAYAyAAEgL_JPD_BwE
+https://www.hostinger.com.br/tutoriais/o-que-github?ppc_campaign=google_performance_max&gclid=EAIaIQobChMIkbbXs-3g-AIVFTSRCh0UyAwvEAAYAiAAEgJSHfD_BwE
